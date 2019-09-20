@@ -1,5 +1,5 @@
 <?php
-$ciudades=['sueca','cullera','riola'];
+$ciudades=['suecaa','cullera','riola'];
 $provincia=['valencia','madrid','barcelona'];    
 var_dump($provincia);
 

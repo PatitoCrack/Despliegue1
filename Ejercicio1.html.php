@@ -1,6 +1,6 @@
 <?php
 class libro{
-    public $autor = 'paco';
+    public $autor = 'pepe';
     public $anyo_de_publicacion = '1322';
     public $editorial = 'yo quese bro';
     public $titulo = 'owo';
